@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+type: software
+title: "Beyond Perfect Scores: Proof-by-Contradiction for Trustworthy Machine Learning (code)"
+authors:
+  - family-names: Wadduwage
+    given-names: "Dushan N."
+    orcid: "https://orcid.org/0000-0002-0689-9454"
+    affiliation: "Old Dominion University"
+    email: dwadduwa@odu.edu
+  - family-names: Jayakody
+    given-names: Dineth
+    affiliation: "Old Dominion University"
+  - family-names: Zimianitis
+    given-names: Leonidas
+    affiliation: "Old Dominion University"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/wadduwagelab/Beyond-Perfect-Scores"
+abstract: >-
+  Official code for a stochastic proof-by-contradiction test for trustworthy
+  machine learning: bucket-level label permutation tests with Fisher-style
+  p-values for biomedical data with many units and few buckets.
+keywords:
+  - trustworthy machine learning
+  - permutation test
+  - biomedical imaging
+  - quantitative phase microscopy
+  - Raman spectroscopy
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Wadduwage
+      given-names: "Dushan N."
+      orcid: "https://orcid.org/0000-0002-0689-9454"
+      affiliation: "Old Dominion University"
+      email: dwadduwa@odu.edu
+    - family-names: Jayakody
+      given-names: Dineth
+      affiliation: "Old Dominion University"
+    - family-names: Zimianitis
+      given-names: Leonidas
+      affiliation: "Old Dominion University"
+  title: "Beyond Perfect Scores: Proof-by-Contradiction for Trustworthy Machine Learning"
+  journal: "arXiv preprint"
+  year: 2026
+  doi: 10.48550/arXiv.2601.06704
+  url: "https://arxiv.org/abs/2601.06704"
