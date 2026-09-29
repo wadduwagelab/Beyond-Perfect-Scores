@@ -15,6 +15,11 @@ authors:
     given-names: Leonidas
     affiliation: "Old Dominion University"
 version: 1.0.0
+doi: 10.5281/zenodo.23022969
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23022969
+    description: "Zenodo archive of all versions of this software"
 license: MIT
 repository-code: "https://github.com/wadduwagelab/Beyond-Perfect-Scores"
 abstract: >-
